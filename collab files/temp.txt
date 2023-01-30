@@ -1,1 +1,7 @@
 put collab file links here
+wingbeats colab file
+https://colab.research.google.com/drive/10lWbA0BrdodSggp25LbqUSgdmFpRLAHR?usp=sharing
+
+clustering colab file
+
+malaria hackathon
