@@ -1,7 +1,13 @@
+PROBLEM STATEMENT
+Malaria Control using AI - (BioTech)
+Malaria is a mosquito-borne disease, claiming over 400,000 lives each year, mainly children under 5. By targeting the water bodies where mosquitoes lay eggs, the disease can be controlled or even eliminated completely. Explore more datasets to understand the problem well and come up with a solution to curb this in a sustainable manner.
 
+<<<<<<< patch-2
+=======
 PPT LINK
 https://www.canva.com/design/DAFZGMKSnic/3bmXrjkNF9K00GQOHPtMVQ/view?utm_content=DAFZGMKSnic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <<<<<<< patch-2
+>>>>>>> main 
 
 SOLUTION
 
@@ -16,7 +22,10 @@ Using the methods mentioned above, we can locate and eradicate the breeding area
 Two stages in which we can stop the growth of malaria are:
 FIRST STAGE: We can prevent the growth of malaria's vector by eliminating the water pits that can serve as the disease's vector's spawning grounds.
 SECOND STAGE: Since the adult mosquito's wingbeat audio will be louder close to its breeding grounds, we can identify the larvae or areas where adult mosquitoes are reproducing and subsequently remove them when they are spawning by using the antenna and ai recognition methods.
+<<<<<<< patch-2
+=======
 =======
 PPT LINK
 https://www.canva.com/design/DAFZGMKSnic/3bmXrjkNF9K00GQOHPtMVQ/view?utm_content=DAFZGMKSnic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+>>>>>>> main
 >>>>>>> main
