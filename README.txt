@@ -29,3 +29,9 @@ PPT LINK
 https://www.canva.com/design/DAFaLFe-3CY/1GIut7P6nEGa8kZDTaJwMw/edit?utm_content=DAFaLFe-3CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 >>>>>>> main
 >>>>>>> main
+
+We have designed two antennas:
+1. Radiation antenna is for emmiting the radiation ko kill malarial vector.
+2. Malaria antenna is for detecting wingbeat frequency of malarial vector.
+Drive link for Antenna Designs and their results
+https://drive.google.com/drive/folders/1Dryhv9K9MZGiMkZgECGWLrl28iwnwy5t?usp=share_link
