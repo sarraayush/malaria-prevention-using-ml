@@ -1,11 +1,11 @@
 PROBLEM STATEMENT
 Malaria Control using AI - (BioTech)
-Malaria is a mosquito-borne disease, claiming over 400,000 lives each year, mainly children under 5. By targeting the water bodies where mosquitoes lay eggs, the disease can be controlled or even eliminated completely. Explore more datasets to understand the problem well and come up with a solution to curb this in a sustainable manner.
+Over 400,000 people die each year from the mosquito-borne disease malaria, mostly children under the age of five. The condition can be eradicated or perhaps entirely wiped out by addressing its underlying cause.
 
 <<<<<<< patch-2
 =======
 PPT LINK
-https://www.canva.com/design/DAFZGMKSnic/3bmXrjkNF9K00GQOHPtMVQ/view?utm_content=DAFZGMKSnic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFaLFe-3CY/1GIut7P6nEGa8kZDTaJwMw/edit?utm_content=DAFaLFe-3CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <<<<<<< patch-2
 >>>>>>> main 
 
@@ -26,6 +26,6 @@ SECOND STAGE: Since the adult mosquito's wingbeat audio will be louder close to 
 =======
 =======
 PPT LINK
-https://www.canva.com/design/DAFZGMKSnic/3bmXrjkNF9K00GQOHPtMVQ/view?utm_content=DAFZGMKSnic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFaLFe-3CY/1GIut7P6nEGa8kZDTaJwMw/edit?utm_content=DAFaLFe-3CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 >>>>>>> main
 >>>>>>> main
